@@ -1,7 +1,6 @@
 ---
+layout: default
 title: Home
-layout: home
-nav_order: 1
 ---
 
 # Jacob Reinhold
@@ -12,18 +11,40 @@ nav_order: 1
 
 ---
 
-> The biggest thing this degree taught me wasn't how to program, it was how to think.
+> *"The biggest thing this degree taught me wasn't another programming language—it taught me how to think."*
 
-Welcome to my Computer Science / Software Engineering ePortfolio.
+Welcome!
 
-This portfolio showcases my growth throughout the Computer Science program at Southern New Hampshire University through artifact enhancements focused on software engineering, algorithms and data structures, and databases.
+This portfolio showcases my growth throughout Southern New Hampshire University's Computer Science program. Rather than simply presenting finished projects, it demonstrates how my approach to software development evolved by revisiting previous work and improving it through software engineering, algorithms and data structures, and database enhancements.
 
 ---
 
 ## Portfolio
 
-- [Professional Self-Assessment](narratives/self-assessment.md)
-- [Code Review](code-review.md)
-- [Software Engineering Enhancement](narratives/enhancement1.md)
-- [Algorithms & Data Structures Enhancement](narratives/enhancement2.md)
-- [Database Enhancement](narratives/enhancement3.md)
+### 📄 [Professional Self-Assessment](self-assessment.md)
+
+Learn about my journey through computer science, how my thinking evolved as a developer, and the experiences that shaped my approach to software engineering.
+
+---
+
+### 🎥 [Code Review](code-review.md)
+
+An overview of my original artifacts and the enhancement plan completed throughout the capstone.
+
+---
+
+### 💻 [Software Engineering Enhancement](software-engineering.md)
+
+Improving software organization, maintainability, testing, and validation.
+
+---
+
+### ⚙️ [Algorithms & Data Structures Enhancement](algorithms.md)
+
+Enhancing efficiency through improved data structures and algorithm design.
+
+---
+
+### 🗄️ [Database Enhancement](databases.md)
+
+Expanding application functionality through improved database design and management.
