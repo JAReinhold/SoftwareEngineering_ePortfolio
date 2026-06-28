@@ -48,3 +48,19 @@ Enhancing efficiency through improved data structures and algorithm design.
 ### 🗄️ [Database Enhancement](databases.md)
 
 Expanding application functionality through improved database design and management.
+
+---
+
+## Technical Skills
+
+- Java
+- JavaScript
+- C++
+- C#
+- Android Development
+- SQL
+- MongoDB
+- HTML/CSS
+- Git & GitHub
+- Object-Oriented Programming
+- Software Testing (JUnit)
