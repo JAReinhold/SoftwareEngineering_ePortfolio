@@ -38,3 +38,18 @@ This enhancement primarily supports the outcome of designing and evaluating comp
 Reflection
 
 This enhancement helped me better understand how algorithms can be used to improve the overall value of an application rather than simply store data. One challenge was updating multiple parts of the application and remembering what went where, including the database, data model, and user interface, while ensuring everything continued to work correctly.
+
+## Downloads
+
+###  Original Artifact
+
+[Download Original MisManaged](./MisManaged.zip)
+
+###  Enhanced Artifact
+
+[Download Enhanced Artifact](./Enhancement%20Two%20mismanaged_jr%20CS499.zip)
+
+###  Enhancement Narrative
+
+[Read Enhancement Narrative](./CS%20499%20Enhancement%20Two%20Narrative.docx)
+
