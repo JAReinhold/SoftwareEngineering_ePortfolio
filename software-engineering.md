@@ -40,3 +40,17 @@ Working on this enhancement reminded me that there is often a difference between
 experience in the aspect of working on someone else’s code and not knowing what is what, in this case just due to how long it’s been since I’ve worked on this, the concept still applies I believe.
 
 ---
+
+## Downloads
+
+### Original Artifact
+
+[ Download Original Contact Service](./CS%20320%20Contact%20Service.zip)
+
+### Enhanced Artifact
+
+[ Download Enhanced Contact Service](./Enhancement%20One%20cs499Contactservice.zip)
+
+### Enhancement Narrative
+
+[ Enhancement Narrative](./CSS%20499%20Enhancement%20One%20Contact%20Service.docx)
