@@ -11,7 +11,7 @@ title: Home
 
 ---
 
-> *"The biggest thing this degree taught me wasn't another programming language—it taught me how to think."*
+> *"The biggest thing this degree taught me wasn't another programming language, it taught me how to think."*
 
 Welcome!
 
