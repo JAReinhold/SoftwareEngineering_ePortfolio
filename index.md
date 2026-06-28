@@ -14,7 +14,7 @@ nav_order: 1
 
 > *"The biggest thing this degree taught me wasn't how to program, it taught me how to think."*
 
-Welcome to my Computer Science ePortfolio.
+Welcome to my Computer Science / Software Engineering ePortfolio.
 
 This portfolio showcases my growth throughout the Computer Science program at Southern New Hampshire University through artifact enhancements focused on software engineering, algorithms and data structures, and databases.
 
