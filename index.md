@@ -12,7 +12,7 @@ nav_order: 1
 
 ---
 
-> *"The biggest thing this degree taught me wasn't how to program, it taught me how to think."*
+> The biggest thing this degree taught me wasn't how to program, it was how to think.
 
 Welcome to my Computer Science / Software Engineering ePortfolio.
 
