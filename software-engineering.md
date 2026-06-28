@@ -54,3 +54,13 @@ experience in the aspect of working on someone else’s code and not knowing wha
 ### Enhancement Narrative
 
 [ Enhancement Narrative](./CSS%20499%20Enhancement%20One%20Contact%20Service.docx)
+
+---
+
+## Continue Exploring
+
+ [Code Review](code-review.md)
+
+ [Algorithms & Data Structures](algorithms.md)
+
+ [Home](index.md)
