@@ -91,3 +91,11 @@ As I prepare to graduate, I don't feel like someone who has finally learned ever
 Final Reflection
 
 Looking back and reflecting on the years of my life learning in this degree program, all things considered, I think the biggest lesson I've learned is that anyone can learn how to write code. The difference is in those that learn how to think.
+
+---
+
+## Continue Exploring
+
+ [Informal Code Review](code-review.md)
+
+ [Software Engineering Enhancement](software-engineering.md)
