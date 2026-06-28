@@ -21,3 +21,11 @@ Before beginning my enhancements, I completed an informal code review discussing
 ## Watch on YouTube
 
 https://youtu.be/vsKPDtE4a9I
+
+---
+
+## Continue Exploring
+
+ [Professional Self-Assessment](self-assessment.md)
+
+ [Software Engineering Enhancement](software-engineering.md)
