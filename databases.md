@@ -36,3 +36,17 @@ This enhancement primarily supports the outcome of demonstrating the ability to 
 Reflection
 
 This enhancement reinforced the importance of database design in application development. A relatively small change to the database structure required updates throughout the whole application, including the schema, data model, queries, and UI. One challenge was ensuring that all database operations continued to function correctly after adding the new category field, which involved more java than I first assumed. Overall, the enhancement helped me better understand how database design decisions affect the overall functionality and maintainability of an application.
+
+## Downloads
+
+###  Original Artifact
+
+[Download Original MisManaged](./MisManaged.zip)
+
+###  Enhanced Artifact
+
+[Download Enhanced Artifact](./Enhancement%20Three%20MisManagedJR%20CS%20499.zip)
+
+###  Enhancement Narrative
+
+[Read Enhancement Narrative](./CS%20499%20Enhancement%20Three%20Narrative.docx)
