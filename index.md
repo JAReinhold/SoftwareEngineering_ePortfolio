@@ -21,31 +21,31 @@ This portfolio showcases my growth throughout Southern New Hampshire University'
 
 ## Portfolio
 
-### 📄 [Professional Self-Assessment](self-assessment.md)
+###  [Professional Self-Assessment](self-assessment.md)
 
 Learn about my journey through computer science, how my thinking evolved as a developer, and the experiences that shaped my approach to software engineering.
 
 ---
 
-### 🎥 [Code Review](code-review.md)
+###  [Code Review](code-review.md)
 
 An overview of my original artifacts and the enhancement plan completed throughout the capstone.
 
 ---
 
-### 💻 [Software Engineering Enhancement](software-engineering.md)
+###  [Software Engineering Enhancement](software-engineering.md)
 
 Improving software organization, maintainability, testing, and validation.
 
 ---
 
-### ⚙️ [Algorithms & Data Structures Enhancement](algorithms.md)
+###  [Algorithms & Data Structures Enhancement](algorithms.md)
 
 Enhancing efficiency through improved data structures and algorithm design.
 
 ---
 
-### 🗄️ [Database Enhancement](databases.md)
+###  [Database Enhancement](databases.md)
 
 Expanding application functionality through improved database design and management.
 
