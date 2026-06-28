@@ -50,3 +50,11 @@ This enhancement reinforced the importance of database design in application dev
 ###  Enhancement Narrative
 
 [Read Enhancement Narrative](./CS%20499%20Enhancement%20Three%20Narrative.docx)
+
+---
+
+## Continue Exploring
+
+ [Algorithms & Data Structures](algorithms.md)
+
+ [Home](index.md)
